@@ -1,7 +1,7 @@
 require 'workflow/sequel/version'
-require 'sequel'
 require 'workflow'
 require 'workflow/adapter/sequel'
+require 'sequel'
 
 module Workflow
   module Sequel
