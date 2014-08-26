@@ -1,3 +1,6 @@
+[![Code Climate](https://codeclimate.com/github/tmaier/workflow-sequel.svg)](https://codeclimate.com/github/tmaier/workflow-sequel)
+[![RubyGems](http://img.shields.io/gem/v/workflow-sequel.svg)](https://rubygems.org/gems/workflow-sequel)
+
 # Workflow::Sequel
 
 Adds support for [Sequel][] to the [workflow][] gem. 
