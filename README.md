@@ -27,6 +27,16 @@ $ gem install workflow-sequel
 
 ## Usage
 
+Add the `workflow_state` column to your schema.
+
+```ruby
+Sequel.migration do
+  change do
+    add_column :examples, :workflow_state, :string
+  end
+end
+```
+
 Include `Workflow::Sequel` in your model.
 
 ```ruby
