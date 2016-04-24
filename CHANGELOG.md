@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.0 (2016-04-24)
+
+* Allow workflow version < 2.0 in the Gemspec
+
 ## 0.0.2 (2014-08-26)
 
 * Fix naming error
