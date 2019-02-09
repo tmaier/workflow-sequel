@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.0 (2019-02-09)
+
+* Allow sequel version >= 5.0 in the Gemspec
+
 ## 0.1.0 (2016-04-24)
 
 * Allow workflow version < 2.0 in the Gemspec
