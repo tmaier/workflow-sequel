@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased changes (2018-11-30)
+## 0.2.0 (2019-02-09)
 
 * Allow sequel version >= 5.0 in the Gemspec
 
